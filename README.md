@@ -11,7 +11,7 @@ With this command, we install the dependencies of our application (library)
 With this command we will run the file with the program
 "python main.py"
 
-#Use
+# Use
 Just don't put the number of points above the world record (often this will result in a ban because the world record is the maximum points earned honestly). The time is indicated in seconds, so as not to get caught, try to indicate such a time so that the system thinks that you really played for so long to score such a score.
 
 # Annotation
