@@ -1,5 +1,5 @@
 # Gamee-Cheat
-A cheat that will allow you to score any number of @Gamme points in telegrams
+A cheat that will allow you to score any number of @Gamee points in telegram
 
 # Installation 
 For the program to work, you will need to install python. Then you launch the console in the downloaded folder, which you will get from the archive. Then, to start, we will need to register two commands:
