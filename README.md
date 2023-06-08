@@ -17,12 +17,12 @@ sudo apt-get install python3-tk
 # Last command
 With this command we will run the file with the program
 
-###Windows 
+### Windows 
 ```
 py main.py
 ```
 
-###Linux 
+### Linux 
 ```
 python3 main.py
 ```
