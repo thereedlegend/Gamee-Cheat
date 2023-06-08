@@ -16,7 +16,16 @@ sudo apt-get install python3-tk
 
 ### Last command
 With this command we will run the file with the program
-"python main.py"
+##Windows 
+```
+py main.py
+```
+##Linux 
+```
+python3 main.py
+```
+### Android Installation
+Install application from RELEASES and enjoy ;)
 
 # Use
 Just don't put the number of points above the world record (often this will result in a ban because the world record is the maximum points earned honestly). The time is indicated in seconds, so as not to get caught, try to indicate such a time so that the system thinks that you really played for so long to score such a score.
