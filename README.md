@@ -1,3 +1,5 @@
+#It's not working now (UPD 20.09)
+
 # Gamee-Cheat
 A cheat that will allow you to score any number of @Gamee points in telegram
 
